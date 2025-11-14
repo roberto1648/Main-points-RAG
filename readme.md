@@ -5,7 +5,7 @@
 The algorithm has the following steps:
 
 1. Extract points of information from a paper that are relevant to answer a query.
-2. Identify and chunks in the paper that are semantically close to the extrated points.
+2. Identify any chunks in the paper that are semantically close to the extrated points.
 3. Select only the chunks with semantic distance under a threshold.
 4. Build context information from the selected chunks.
 5. Give the LLM the context information to answer the query.
