@@ -12,7 +12,7 @@ The algorithm has the following steps:
 6. Check if the answer has unsupported claims.
 7. Fix the answer with any identified unsupported claims.
 8. Repeat until there are no usupported claims.
-9. Return the answer and retrieved chunks.
+9. Return the answer and selected chunks.
 
 ## Global context
 
