@@ -1,0 +1,294 @@
+ Cell Cycle
+ISSN: 1538-4101 (Print) 1551-4005 (Online) Journal homepage: www.tandfonline.com/journals/kccy20
+Acetic acid eﬀects on aging in budding yeast: Are
+they relevant to aging in higher eukaryotes?
+William C. Burhans & Martin Weinberger
+To cite this article: William C. Burhans & Martin Weinberger (2009) Acetic acid eﬀects on aging
+in budding yeast: Are they relevant to aging in higher eukaryotes?, Cell Cycle, 8:14, 2300-2302,
+DOI: 10.4161/cc.8.14.8852
+To link to this article:  https://doi.org/10.4161/cc.8.14.8852
+Published online: 15 Jul 2009.
+Submit your article to this journal 
+Article views: 522
+View related articles 
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=kccy20 [Cell Cycle 8:14, 2300-2302; 15 July 2009]; ©2009 Landes Bioscience
+2300 Cell Cycle 2009; Vol. 8 Issue 14
+In a recent issue of Cell Cycle, Burtner et al. presented evidence 
+that the accumulation of acetic acid in stationary phase budding yeast 
+cultures is “the primary mechanism of chronological aging in yeast”. 1 
+Burtner et al. suggest that “how acetic acid-induced cell death could 
+contribute to aging in higher organisms is not readily apparent.” We 
+also recently investigated the effects of pH on chronological lifespan 
+(CLS) of budding yeast. The results of our experiments and those of 
+previous studies point to a mechanism of acetic acid toxicity in yeast 
+related to the induction of growth signaling pathways and oxidative 
+stress. These mechanisms are relevant to aging in all eukaryotes.
+CLS is defined as the length of time budding yeast cells survive 
+after undergoing a nutrient depletion-induced arrest of the cell cycle 
+in stationary phase. To simplify discussion, we refer to this arrest 
+as “growth arrest.” As in the experiments of Burtner et al. buffering 
+medium to maintain a higher pH lengthened CLS compared to CLS 
+in unbuffered medium (Fig. 1A). Buffering medium also inhibited the 
+age-dependent accumulation of reactive oxygen species detected by 
+the fluorescent probe dihydroethidium, which is mostly sensitive to 
+superoxide anions (Fig. 1B). Thus, the accumulation of acetic acid in 
+stationary phase induces oxidative stress, a factor previously impli-
+cated in chronological aging of yeast and aging in other organisms 
+as well.
+Buffering medium also increased the frequency with which cells 
+arrest growth in G
+1 when they enter stationary phase, as indicated 
+by a reduced number of stationary phase cells with microscopically 
+detectable buds (Fig. 1C). Counting budded cells underestimates the 
+number of stationary phase cells that fail to arrest in G
+1, because cells 
+with small buds are difficult to detect. It also does not account for a 
+potential reduction in the number of budded compared to unbudded 
+cells associated with apoptotic cell destruction, which occurs more 
+frequently in stationary phase populations enriched for cells with 
+buds.
+2 In fact, staining cells with the DNA stain propidium iodide 
+(PI) to detect dead cells that have lost membrane integrity—which 
+includes cells at late stages of apoptosis—revealed a minimum two-
+fold increase in the rate at which cells with visible buds compared to 
+those without visible buds were dying in unbuffered stationary phase 
+cultures (Fig. 1D). Since cells with small buds are difficult to detect, 
+some of the PI-stained cells without visible buds were also likely to 
+be cycling when they died. In contrast, in buffered stationary phase 
+cultures, a significant difference was not detected in PI staining of 
+cells with or without visible buds (Fig. S1). These findings indicate that 
+the accumulation of acetic acid in stationary phase cultures inhibits 
+growth arrest of cells in G
+1 and is preferentially toxic to cells that fail 
+to undergo a G1 arrest.
+The data of Burtner et al. show that osmotic stress or mutational 
+inactivation of conserved growth signaling pathways (deletion of 
+genes encoding the AKT homologue Sch9 or the RAS homologue Ras2) 
+confer resistance to acetic acid toxicity in stationary phase cultures via 
+undefined mechanisms. They also show that caloric restriction extends 
+CLS by reducing the accumulation of acetic acid in stationary phase 
+cultures. Deletion of SCH9 induces the superoxide dismutase Sod2 in 
+stationary phase cells.
+3 Since oxidative stress is increased by acetic 
+acid in wild type cells (Fig. 1B), induction of Sod2 in sch9Δ cells could 
+explain some of the resistance of this strain to acetic acid toxicity. 
+However, similar to the effects of buffered medium on stationary phase 
+G
+1 arrest described above, CLS extension by deletion of SCH9, RAS2, 
+increased osmolarity or by caloric restriction are all accompanied by 
+more frequent stationary phase growth arrest in G
+1.4 Together with 
+the findings reported here, these and other findings described in this 
+earlier study point to DNA replication stress—i.e., inefficient DNA 
+replication—arising downstream of growth signaling that inhibits G
+1 
+arrest in stationary phase as an additional component of the lifespan-
+shortening effects of acetic acid in chronological aging experiments. 
+This conclusion is supported by the recent discovery of a distinct popu-
+lation of “non-quiescent” stationary phase cells that, in addition to its 
+enrichment for budded and apoptotic cells, exhibits elevated expres-
+sion of genes encoding proteins that respond to replication stress.
+2
+A role for acetic acid in the induction of growth signaling path-
+ways and replication stress in yeast is not surprising. In budding 
+yeast and many other fungi, intracellular acidification—which occurs 
+when acetic acid is introduced into medium
+5—activates the same 
+highly conserved Ras2 and cAMP-dependent signaling pathways that 
+respond to glucose.
+6 Thus, despite the absence of glucose (which has 
+been completely consumed), nutrient-depleted stationary phase cells 
+are continuously subjected to acetic acid-induced growth signals that 
+promote entry into S phase, but in the absence of nutrients or the regu-
+latory mechanisms required for the synthesis of dNTPs and efficient 
+DNA replication. This is a recipe for replication stress.
+In the context of the well-documented stimulation of growth 
+signaling pathways by intracellular acidification in yeast and evidence 
+for the induction of replication stress in stationary phase cells, it’s 
+likely that the resistance to acetic acid toxicity in sch9Δ and ras2Δ 
+cells reported by Burtner et al. is related in part to reduced growth 
+signaling that promotes the more frequent growth arrest in G
+1 we 
+detected earlier in these strains. 4 This would protect against acetic 
+acid-induced replication stress. The more efficient stationary phase G1 
+arrest induced by osmotic stress is expected to similarly protect against 
+acetic acid-induced replication stress, perhaps through its induction of 
+the cyclin-dependent kinase inhibitor Sic1. Sic1, which blocks entry 
+into S phase, is required for a Hog1-dependent G
+1 arrest induced by 
+osmotic stress.7 Hog1 also confers resistance to acetic acid toxicity in 
+cycling cells.5 Whether deletion of SCH9 or RAS2 activates Sic1 is 
+not known; except for our study,4 efforts to understand the role of Sch9 
+and other growth signaling molecules in CLS have focused on inhibi-
+tion of Sod2 and other oxidative stress responses. Based on studies 
+Letter to the Editor
+Acetic acid effects on aging in 
+budding yeast
+Are they relevant to aging in higher eukaryotes?
+William C. Burhans* and Martin Weinberger
+Department of Molecular and Cellular Biology; Roswell Park Cancer Institute; Buffalo, 
+NY USA
+Key words: aging, chronological lifespan, replication stress, osmotic 
+stress, caloric restriction, oxidative stress, ROS
+*Correspondence to: William C. Burhans; Department of Molecular and Cellular 
+Biology; Roswell Park Cancer Institute; Buffalo, NY 14263 Tel.: 716.845.7691; 
+Email: wburhans@buffalo.edu
+Submitted: 04/23/09; Accepted: 04/27/09
+Previously published online as a Cell Cycle E-publication: 
+http://www.landesbioscience.com/journals/cc/article/8852 Acetic acid and aging in budding yeast
+www.landesbioscience.com Cell Cycle 2301
+of the mammalian homologues of Sch9 
+and Sic1 (AKT and p27), however, this 
+is likely to be the case—AKT inhibits G
+1 
+arrest in mammalian cells by inhibiting 
+the activity of p27.
+8
+Are the CLS-shortening effects of 
+acetic acid in yeast relevant to aging in 
+higher eukaryotes? Although acetic acid 
+is not a specific physiological trigger 
+of growth signaling pathways in more 
+complex organisms, induction of mito-
+genic signaling by low pH has been 
+reported in higher eukaryotes, where 
+it contributes to a variety of patho -
+logical states related to aging, such as 
+inflammation and cancer. This includes, 
+for example, activation by low pH of 
+AKT and cellular proliferation in Barrett’s 
+esophagus, a precursor to esophageal 
+cancer for which chronic acid reflux 
+is a major risk factor.
+9 Extracellular 
+acidification—which is detected in many 
+solid tumors—also has been linked to 
+proliferation of medulloblastoma cells by 
+triggering the formation of IP3, a potent 
+activator of AKT, and activating the 
+MEK/ERK mitogen signaling pathway.
+10 
+There are many other examples in the 
+literature of the induction by low pH 
+of RAS, cAMP and/or AKT-dependent 
+mitogenic signaling pathways associ-
+ated with cancer, chronic acidosis-related 
+diseases or regulation of differentiation 
+during embryogenesis.
+Even more relevant is the fact that 
+growth signaling through conserved 
+insulin-like growth factor (IGF-1) path-
+ways regulated by AKT, RAS and cAMP 
+and other molecules is a well-established 
+factor in aging in all eukaryotes. Growth 
+signaling through these pathways also 
+contributes to neurodegenerative and 
+other age-related diseases, including 
+cancer.
+11 Similar to the Sch9-dependent 
+inhibition of both Sod2 expression 
+and G
+1 arrest that occurs in response 
+to growth signaling by acetic acid in 
+stationary phase yeast cells, growth 
+signaling through AKT in mammals 
+suppresses MnSod and other oxida-
+tive stress responses,
+12,13 in addition 
+to inhibiting p27 and G 1 arrest. 8 Also 
+similar to the effects of acetic acid in 
+yeast stationary phase cells, replication 
+stress arises in differentiating mamma-
+lian cells that normally arrest growth in 
+G
+1, but inappropriately arrest growth 
+in S phase downstream of sustained 
+growth signaling by RAS, AKT and other 
+oncogenes at early stages of cancer.
+14 A role for replication stress 
+in aging of higher eukaryotes has not yet been explored. However, 
+longevity-promoting NAD-dependent deacetylases counteract the 
+effects of growth signaling through AKT and other proteins by inducing 
+p27 and G
+1 arrest, in addition to oxidative stress responses.15,16 The 
+induction of p27 and G 1 arrest by NAD-dependent deacetylases—
+which is rarely described in discussions of the longevity-promoting 
+capabilities of these proteins—likely promotes longevity by protecting 
+Figure 1. Effects of buffering pH in yeast chronological aging experiments. (A) Viability of BY4741 wild 
+type cells cultured in synthetic complete (SC) medium 4 for indicated times in the absence (“unbuffered”) 
+or presence (“buffered”) of 50 mM citrate-phosphate buffer (pH 6.0). The osmolarity of unbuffered 
+medium was adjusted with sorbitol to maintain the same osmolarity as buffered medium. Viability was 
+measured as colony-forming units. Data represent averages and standard deviations of three biological 
+replicas. Unbuffered cultures achieved a final average pH of 3.19, and buffered cultures achieved a 
+final average pH of 5.26. Similar results were obtained in a second genetic background (DBY746; not 
+shown). (B) Reactive oxygen species in aliquots of 25,000 cells from buffered or unbuffered cultures 
+were measured by flow cytometry at the indicated times of medium depletion using dihydroethidium 
+(DHE). Y axis indicates number of cells producing DHE fluorescence signals in individual channels of 
+the flow cytometer; X axis indicates channels detecting progressively higher levels of DHE fluorescence 
+and is scaled exponentially. (C) The fraction of visibly budded cells (“% visible buds”) was determined 
+microscopically at indicated times in aliquots of 500 or more cells from each time point. Data represent 
+averages and standard deviations in three biological replicas. (D) Viability of cells with or without visible 
+buds was assessed by staining aliquots of cells collected at indicated times with propidium iodide (PI) fol-
+lowed by microscopic examination with appropriate filters. Total cells counted in each sample exceeded 
+2,000 cells. Data are representative of results in 4 biological replicas. Additional PI staining data are 
+presented in Figure S1.
+ Acetic acid and aging in budding yeast
+2302 Cell Cycle 2009; Vol. 8 Issue 14
+against replication stress. Also relevant here is the observation that 
+caloric restriction—which prolongs the lifespan of most, if not all, 
+organisms—induces a “metabolic checkpoint” that (similar to the more 
+frequent stationary phase G
+1 arrest induced by caloric restriction in 
+nutrient-depleted yeast cells4) drives mouse cells into G 1. Abrogation 
+of this checkpoint leads to growth arrest in S phase followed by 
+apoptosis.
+17
+In summary, Burtner et al. raise an important question about the 
+relevance of acetic acid effects in the yeast chronological aging model 
+to aging in higher eukaryotes. Results presented here and in related 
+studies that were not cited by Burtner et al. indicate that in yeast, 
+accumulation of acetic acid in stationary phase cultures stimulates 
+highly conserved growth signaling pathways and increases oxidative 
+stress and replication stress, all of which have been implicated in 
+aging and/or age-related diseases in more complex organisms. Low 
+pH also stimulates growth signaling pathways in mammals. Although 
+the reduced production of acetic acid identified by Burtner et al. as a 
+factor in the CLS-extending effects of caloric restriction in yeast may 
+be specific for this organism, the underlying mechanism by which this 
+protects against chronological aging is likely to be same as for caloric 
+restriction in higher eukaryotes—that is, reduced growth signaling that 
+inhibits both oxidative and replication stress. The remarkable parallels 
+between regulation of chronological aging in yeast and of aging in 
+more complex organisms suggest that conserved growth signaling 
+pathways impact aging in all eukaryotes via dual effects on oxida-
+tive and replication stress. The yeast chronological aging model will 
+likely continue to provide insights that will guide us toward a better 
+understanding of these and other aspects of aging and age-related 
+diseases.
+Acknowledgements
+This research was supported in part by a NCI Cancer Center 
+Support Grant (P30 CA016056) to Roswell Park Cancer 
+Institute.
+Note
+Supplementary materials can be found at:
+www.landesbioscience.com/supplement/BurhansCC8-14-Sup.pdf
+References
+ 1. Burtner CR, et al. Cell Cycle 2009; 8:1256-70.
+ 2. Allen C, et al. J Cell Biol 2006; 174:89-100.
+ 3. Fabrizio P, et al. Genetics 2003; 163:35-46.
+ 4. Weinberger M, et al. PLOS One 2007; 2:748.
+ 5. Mollapour M, et al. FEMS Yeast Res 2006; 6:1274-80.
+ 6. Thevelein JM, et al. Mol Microbiol 1999; 33:904-18.
+ 7. Zapater M, et al. Cell Cycle 2005; 4:6-7.
+ 8. Chu IM, et al. Nat Rev Cancer 2008; 8:253-67.
+ 9. Beales IL, et al. BMC Cancer 2007; 7:97.
+ 10. Huang WC, et al. Curr Biol 2008; 18:781-5.
+ 11. Burhans WC, et al. Nucleic Acids Res 2007; 35:7545-56.
+ 12. Miyauchi H, et al. EMBO J 2004; 23:212-20.
+ 13. Nogueira V, et al. Cancer Cell 2008; 14:458-70.
+ 14. Halazonetis TD, et al. Science 2008; 319:1352-5.
+ 15. Brunet A, et al. Science 2004; 303:2011-5.
+ 16. Wang F, et al. Aging Cell 2007; 6:505-14.
+ 17. Jones RG, et al. Mol Cell 2005; 18:283-93.
