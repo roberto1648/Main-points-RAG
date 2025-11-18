@@ -16,7 +16,7 @@ The algorithm has the following steps:
 
 ## Global context
 
-The LLM is initially provided with the full document text to extract points of information present in the paper and that are relevant to the query (step 1). The individual points may not be semantically similar to the query, but they are needed information that is likely present in the paper. 
+The LLM is initially provided with the full document text to extract points of information present in the paper that are relevant to the query (step 1). The individual points may not be semantically similar to the query, but they are needed information that is likely present in the paper. 
 
 This sets a contrast with standard RAG since information that is not directly similar to the query can be logically combined to generate a nuanced answer. Other advanced-RAG algorithms also divide the query into sub-queries. The difference here is that the sub-queries (points) are confined to information that must be explicitly present in the paper. This then allows to quantitatively verify if a point or sub-query is valid through similarity metrics. 
 
